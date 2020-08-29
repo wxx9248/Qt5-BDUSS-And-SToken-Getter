@@ -19,7 +19,7 @@
 * 在左边按照正常的登录流程登录百度贴吧，右边就会显示BDUSS和SToken的值
 * 点击右边`Cookie抓取结果`栏中对应项目的`复制值`按钮，复制对应的值，如下图：
 
-![Cookie抓取结果](https://raw.githubusercontent.com/wxx9248/Qt5-BDUSS-And-SToken-Getter/master/img/01.png)
+<center>![Cookie抓取结果](https://raw.githubusercontent.com/wxx9248/Qt5-BDUSS-And-SToken-Getter/master/img/01.png)</center>
 
 ## FAQ
 1. BDUSS和SToken不能使用
