@@ -35,8 +35,8 @@ IDI_ICON1               ICON    "icon.ico"
 //
 
 1 VERSIONINFO
- FILEVERSION 1,0,0,0
- PRODUCTVERSION 1,0,0,0
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
  FILEFLAGSMASK 0x3fL
 
 #ifdef _DEBUG
@@ -54,12 +54,12 @@ BEGIN
         BEGIN
             VALUE "CompanyName", "wxx9248"
             VALUE "FileDescription", "BDUSS和SToken获取器"
-            VALUE "FileVersion", "1.0.0.0"
+            VALUE "FileVersion", "1.0.0.1"
             VALUE "InternalName", "Qt5-BDUSS-And-SToken-Getter.exe"
             VALUE "LegalCopyright", "Copyright (C) 2020 驯龙高手吧, wxx9248"
             VALUE "OriginalFilename", "Getter.exe"
             VALUE "ProductName", "BDUSS和SToken获取器"
-            VALUE "ProductVersion", "1.0.0.0"
+            VALUE "ProductVersion", "1.0.0.1"
         END
     END
     BLOCK "VarFileInfo"

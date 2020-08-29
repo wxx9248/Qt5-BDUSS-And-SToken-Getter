@@ -22,7 +22,9 @@ SOURCES += \
 
 HEADERS += \
     cookiewidget.hpp \
-    mainwindow.hpp
+    mainwindow.hpp \
+    resource.h \
+    resource.rc
 
 FORMS += \
     cookiewidget.ui \
