@@ -22,8 +22,7 @@
 ## FAQ
 1. BDUSS和SToken不能使用
 	 点击右边的`清除Cookies`，再点击`刷新`，重新登录获取BDUSS和SToken。
-2. 程序无法打开，如下图所示：
-![无法找到入口点](https://raw.githubusercontent.com/wxx9248/Qt5-BDUSS-And-SToken-Getter/master/img/02.png)
+2. 程序无法打开，提示`无法找到入口点`
 	请不要删除提取出来的**任何文件**，那些都是运行此程序所必要的支持库。
 3. 如果有其他问题，请在 [issues页面](https://github.com/wxx9248/Qt5-BDUSS-And-SToken-Getter/issues) 反馈问题，反馈时请提供**你的操作系统版本**，并**详细描述程序的错误**，并附上**屏幕截图**（不要用手机拍屏幕！）；如果提供的信息过于少，将不提供技术支持。
 
