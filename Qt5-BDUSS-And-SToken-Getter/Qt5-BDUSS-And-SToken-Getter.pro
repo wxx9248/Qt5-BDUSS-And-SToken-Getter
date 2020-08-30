@@ -42,4 +42,6 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 RESOURCES += \
     resource.qrc
 
-RC_FILE = resource.rc
+win32:RC_FILE = resource.rc
+macx:QMAKE_INFO_PLIST = Info.plist
+macx:ICON = icon.icns
