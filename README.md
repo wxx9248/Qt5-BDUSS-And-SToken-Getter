@@ -4,15 +4,15 @@
 自动获取百度BDUSS值和STOKEN值，用于经验值迁移系统
 
 ## 系统要求
-* 推荐使用 Windows 10
-* 最低系统要求：Windows 7 SP1
+* 推荐使用 Windows 10，或者macOS 10.15
+* 最低系统要求：Windows 7 SP1，或者macOS 10.13
 * **不支持 Windows XP 和 Vista**
  
 ## 使用方法
 * 前往 [Release页面](https://github.com/wxx9248/Qt5-BDUSS-And-SToken-Getter/releases) 下载最新版本
 	* `x86`结尾的适用于32位系统
 	* `amd64`结尾的适用于64位系统
-* 解压zip文件，点击其中的`Getter.exe`
+* 解压zip文件，点击其中的`Getter.exe`，或者macOS版本为`Getter.app`
 * 如果满足系统要求，程序主界面会打开，如下图：
 
 ![主界面](https://raw.githubusercontent.com/wxx9248/Qt5-BDUSS-And-SToken-Getter/master/img/00.png)
