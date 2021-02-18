@@ -4,7 +4,7 @@
 自动获取百度BDUSS值和STOKEN值，用于经验值迁移系统
 
 ## 系统要求
-* 推荐使用 Windows 10，或者macOS 10.15
+* 推荐使用 Windows 10，或者macOS 10.15+
 * 最低系统要求：Windows 7 SP1，或者macOS 10.13
 * **不支持 Windows XP 和 Vista**
  
